@@ -90,6 +90,8 @@ article img {
 .imagen-post {
     width: 80%;
     max-width: 500px;
+    height: 600px;
+    object-fit: cover;
     display: block;
     margin: 0 auto;
     border-radius: 10px;
