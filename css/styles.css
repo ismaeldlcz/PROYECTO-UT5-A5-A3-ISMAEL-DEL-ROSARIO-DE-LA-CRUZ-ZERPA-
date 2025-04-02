@@ -62,6 +62,9 @@ nav ul {
     list-style: none;
     padding: 0;
 }
+h2 {
+    text-align: center;
+}
 
 nav ul li {
     display: inline;
