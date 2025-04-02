@@ -15,7 +15,7 @@
             <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/index.html</link>
             <description>Comentamos las mejores películas de acción de la historia.</description>
             <pubDate>Mon, 01 Apr 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio3.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio3.mp3" type="audio/mpeg" length="6000000"/>
         </item>
         
         <item>
@@ -23,7 +23,7 @@
             <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/index.html</link>
             <description>Exploramos películas dramáticas que han dejado huella.</description>
             <pubDate>Sun, 31 Mar 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio2.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio2.mp3" type="audio/mpeg" length="6000000"/>
         </item>
         
         <item>
@@ -31,7 +31,7 @@
             <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/index.html</link>
             <description>Analizamos los thrillers más sorprendentes del cine.</description>
             <pubDate>Sat, 30 Mar 2024 18:00:00 GMT</pubDate>
-            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio1.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/podcast/episodio1.mp3" type="audio/mpeg" length="6000000"/>
         </item>
     </channel>
 </rss>
