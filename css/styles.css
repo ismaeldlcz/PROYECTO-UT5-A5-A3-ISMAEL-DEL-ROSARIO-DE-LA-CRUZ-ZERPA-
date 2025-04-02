@@ -17,6 +17,7 @@ body {
     top: 15px;
     left: 15px;
     z-index: 1000;
+    display: none;
 }
 
 .nav {
@@ -171,4 +172,18 @@ footer a {
     width: 40px;
     height: auto;
     margin: 5px;
+}
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    .nav {
+        display: block;
+    }
 }
