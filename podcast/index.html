@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast - PelisRSS</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script defer src="../script.js"></script>
+</head>
+<body>
+    <header>
+        <button class="menu-toggle" id="menuToggle">☰</button>
+        <h1>Podcast de PelisRSS</h1>
+        <nav class="nav" id="navMenu">
+            <ul>
+                <li><a href="blog/index.html">Blog</a></li>
+                <li><a href="../index.html">Inicio</a></li>
+            </ul>
+        </nav>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="../blog/index.html">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Últimos Episodios</h2>
+        <p>Escucha nuestras charlas sobre cine y series.</p>
+        <section class="podcast-list">
+            <article>
+                <h3>Episodio 1: Lo mejor del cine de acción</h3>
+                <audio controls>
+                    <source src="episodio1.mp3" type="audio/mpeg">
+                    Tu navegador no soporta la reproducción de audio.
+                </audio>
+            </article>
+            <article>
+                <h3>Episodio 2: Dramas que nos han marcado</h3>
+                <audio controls>
+                    <source src="episodio2.mp3" type="audio/mpeg">
+                    Tu navegador no soporta la reproducción de audio.
+                </audio>
+            </article>
+            <article>
+                <h3>Episodio 3: Los thrillers más impactantes</h3>
+                <audio controls>
+                    <source src="episodio3.mp3" type="audio/mpeg">
+                    Tu navegador no soporta la reproducción de audio.
+                </audio>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 PelisRSS - Todos los derechos reservados</p>
+        <p>Suscríbete: <a href="feed/rss.xml">RSS Blog</a> | <a href="feed/podcast.xml">RSS Podcast</a> | <a href="feed/feed.opml">Importar OPML</a></p>
+        <img src="../images/valid-rss.png" alt="">
+        <img src="../images/valid-opml.jpg" alt="">
+    </footer>
+</body>
+</html>
