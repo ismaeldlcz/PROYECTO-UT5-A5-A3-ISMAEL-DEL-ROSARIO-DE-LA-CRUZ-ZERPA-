@@ -2,25 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>PelisRSS - Blog</title>
-        <link>https://tu-github-pages-url/blog/index.html</link>
+        <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/blog/index.html</link>
         <description>Últimos artículos sobre cine y series</description>
         <language>es</language>
         <lastBuildDate>Mon, 01 Apr 2024 12:00:00 GMT</lastBuildDate>
         <item>
             <title>SPIDERMAN NO WAY HOME</title>
-            <link>https://tu-github-pages-url/blog/posts/post3.html</link>
+            <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/blog/posts/post3.html</link>
             <description>Un explosivo cruce de dimensiones que redefine el destino de un héroe.</description>
             <pubDate>Mon, 01 Apr 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>UNA PELICULA DE MINECRAFT</title>
-            <link>https://tu-github-pages-url/blog/posts/post2.html</link>
+            <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/blog/posts/post2.html</link>
             <description>Una épica aventura de bloques que desafiará la valentía y la amistad.</description>
             <pubDate>Sun, 31 Mar 2024 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title>AFTER: PARA SIEMPRE</title>
-            <link>https://tu-github-pages-url/blog/posts/post1.html</link>
+            <link>https://ismaeldlcz.github.io/PROYECTO-UT5-A5-A3-ISMAEL-DEL-ROSARIO-DE-LA-CRUZ-ZERPA-/blog/posts/post1.html</link>
             <description>Un romance apasionado que pondrá a prueba el poder del amor verdadero.</description>
             <pubDate>Sat, 30 Mar 2024 18:00:00 GMT</pubDate>
         </item>
